@@ -1,0 +1,77 @@
+
+  
+  .container-syauqiy {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%; 
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .left-section {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .left-section h1 {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+  }
+  
+  .left-section h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .left-section p {
+    font-size: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  .left-section input {
+    width: 80%;
+    padding: 0.75rem;
+    margin-bottom: 1rem;
+    border: 1px solid #333;
+    border-radius: 5px;
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .left-section button {
+    width: 80%;
+    padding: 0.75rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #4A56E2;
+    color: #fff;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  .left-section a {
+    display: block;
+    margin-top: 1rem;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .right-section {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .right-section img {
+    max-width: 100%;
+  }
+  
